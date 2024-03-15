@@ -1,0 +1,4 @@
+alembic==1.13.1
+Django==3.2.24
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
